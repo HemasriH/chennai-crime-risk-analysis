@@ -1,4 +1,4 @@
-# Chennai Crime Risk Analysis using Big Data Analytics
+# Chennai Crime Risk Analysis
 ## Introduction
 Urban crime analysis is challenging due to large, complex, and inconsistent datasets.
 This project uses Big Data Analytics and Machine Learning to analyze Chennai crime data and classify crime incidents into different risk levels for better decision-making and public safety.
